@@ -1,0 +1,9 @@
+Hey, slipping out of the engineering office for lunch and finally getting around to HandmadeByDP again. Inventory has been collecting dust since Christmas, and I am letting the spring momentum slip. I want to be back on the Houston market circuit by the middle of May, not later.
+
+I need you to plan the spring relaunch in full. Open the Market Inventory base in Airtable and pull what is actually on hand right now, so products, current stock, restock thresholds, the whole base. Then compare the Sales Log and the monthly summaries from October through December so you can see what actually moved and what just sat there. Use that to decide what to remake and what to retire for the season, because chunky oversized scarves and queen-size blankets in a Houston May are a pass, and the baked goods showing zero stock are normal since those are made fresh the morning of and not from inventory.
+
+Build me a real restock plan that lists which products to remake, how many of each, the total KnitPicks yarn order using the materials_cost numbers in the base, and two market days to commit to. First Saturday Arts and Heights Makers run all year, so just pick the next two slots that work. Get calendar entries on for those, vendor setup a7 amam, wrap by 3 pm. Set reminders for when I should actually place the KnitPicks order, because past shipments in logistics ran about four days, so I do not want to cut it close.
+
+Save the whole plan as a file in my workspace, so I can pull it back up later, and update MEMORY.md, so I am not starting from zero next time. On funding, keep this off the Capital One because Lena and I are walking that balance down, not piling on. Use checking, PayPal balance, whatever is clean.
+
+One thing, none of this touches Slack or the work calendar. Cynthia gets a personal day if anything, and that is it. Heading back to standup, thanks. 
